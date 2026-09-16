@@ -2,7 +2,7 @@
 
 | Property | Value |
 |----------|-------|
-| Difficulty | 🟡 Medium |
+| Difficulty | ⚪ Unknown |
 | Language | C++ |
 | Status | ❌ Time Limit Exceeded |
 | Runtime | N/A |
@@ -20,8 +20,7 @@ https://leetcode.com/problems/nth-digit/
 
 ## 🏷 Tags
 
-- Math
-- Binary Search
+- None
 
 ---
 

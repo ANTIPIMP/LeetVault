@@ -2,7 +2,7 @@
 
 | Property | Value |
 |----------|-------|
-| Difficulty | 🟡 Medium |
+| Difficulty | ⚪ Unknown |
 | Language | C++ |
 | Status | ❌ Wrong Answer |
 | Runtime | N/A |
@@ -20,10 +20,7 @@ https://leetcode.com/problems/number-of-unique-xor-triplets-ii/
 
 ## 🏷 Tags
 
-- Array
-- Math
-- Bit Manipulation
-- Enumeration
+- None
 
 ---
 

@@ -2,7 +2,7 @@
 
 | Property | Value |
 |----------|-------|
-| Difficulty | 🟡 Medium |
+| Difficulty | ⚪ Unknown |
 | Language | C++ |
 | Status | ❌ Wrong Answer |
 | Runtime | N/A |
@@ -20,10 +20,7 @@ https://leetcode.com/problems/partition-equal-subset-sum/
 
 ## 🏷 Tags
 
-- Array
-- Dynamic Programming
-- Knapsack Problem
-- 0-1 Knapsack
+- None
 
 ---
 

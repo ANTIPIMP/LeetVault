@@ -2,7 +2,7 @@
 
 | Property | Value |
 |----------|-------|
-| Difficulty | 🟢 Easy |
+| Difficulty | ⚪ Unknown |
 | Language | C++ |
 | Status | ❌ Wrong Answer |
 | Runtime | N/A |
@@ -20,9 +20,7 @@ https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/
 
 ## 🏷 Tags
 
-- Math
-- String
-- Greedy
+- None
 
 ---
 

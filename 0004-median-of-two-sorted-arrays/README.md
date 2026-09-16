@@ -1,20 +1,20 @@
-# 2609. Distinct Prime Factors of Product of Array
+# 0004. Median of Two Sorted Arrays
 
 | Property | Value |
 |----------|-------|
 | Difficulty | ⚪ Unknown |
-| Language | JavaScript |
+| Language | Python3 |
 | Status | ✅ Accepted |
-| Runtime | 71 ms |
-| Memory | 56.6 MB |
-| Submission ID | 2070441097 |
+| Runtime | 0 ms |
+| Memory | 19.3 MB |
+| Submission ID | 2070381006 |
 | Solved On | 17 Jul 2026 |
 
 ---
 
 ## 🔗 Problem
 
-https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/
+https://leetcode.com/problems/median-of-two-sorted-arrays/
 
 ---
 
@@ -34,7 +34,9 @@ No notes provided.
 
 | Language | Runtime | Memory | File |
 |----------|---------|--------|------|
-| JavaScript | 71 ms | 56.6 MB | [solution.js](./solution.js) |
+| Python3 | 0 ms | 19.3 MB | [solution.py](./solution.py) |
+| Java | 8 ms | 49 MB | [Solution.java](./Solution.java) |
+| C++ | 0 ms | 96 MB | [solution.cpp](./solution.cpp) |
 
 ---
 Generated automatically using [LeetVault](https://github.com/vedant476/LeetVault).

@@ -2,7 +2,7 @@
 
 | Property | Value |
 |----------|-------|
-| Difficulty | 🟡 Medium |
+| Difficulty | ⚪ Unknown |
 | Language | C++ |
 | Status | ❌ Compile Error |
 | Runtime | N/A |
@@ -20,8 +20,7 @@ https://leetcode.com/problems/min-stack/
 
 ## 🏷 Tags
 
-- Stack
-- Design
+- None
 
 ---
 
