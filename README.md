@@ -2,7 +2,7 @@
 
 > Automatically synchronized using **LeetVault**
 
-[![Problems](https://img.shields.io/badge/Problems-16-blue)]()
+[![Problems](https://img.shields.io/badge/Problems-18-blue)]()
 [![Easy](https://img.shields.io/badge/Easy-0-success)]()
 [![Medium](https://img.shields.io/badge/Medium-0-orange)]()
 [![Hard](https://img.shields.io/badge/Hard-0-red)]()
@@ -14,7 +14,7 @@
 
 | Metric | Count |
 |---------|------:|
-| Problems Solved | 16 |
+| Problems Solved | 18 |
 | Easy | 0 |
 | Medium | 0 |
 | Hard | 0 |
@@ -25,7 +25,7 @@
 
 # 📂 Browse by Topic
 
-## Uncategorized (16)
+## Uncategorized (18)
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
@@ -45,6 +45,8 @@
 | 0005 | Longest Palindromic Substring | ⚪ Unknown | [View](./0005-longest-palindromic-substring/) |
 | 0004 | Median of Two Sorted Arrays | ⚪ Unknown | [View](./0004-median-of-two-sorted-arrays/) |
 | 4242 | Sum of GCD of Formed Pairs | ⚪ Unknown | [View](./4242-sum-of-gcd-of-formed-pairs/) |
+| 0026 | Remove Duplicates from Sorted Array | ⚪ Unknown | [View](./0026-remove-duplicates-from-sorted-array/) |
+| 0025 | Reverse Nodes in k-Group | ⚪ Unknown | [View](./0025-reverse-nodes-in-k-group/) |
 
 ---
 
