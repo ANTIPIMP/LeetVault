@@ -3,8 +3,8 @@
 > Automatically synchronized using **LeetVault**
 
 [![Problems](https://img.shields.io/badge/Problems-1-blue)]()
-[![Easy](https://img.shields.io/badge/Easy-1-success)]()
-[![Medium](https://img.shields.io/badge/Medium-0-orange)]()
+[![Easy](https://img.shields.io/badge/Easy-0-success)]()
+[![Medium](https://img.shields.io/badge/Medium-1-orange)]()
 [![Hard](https://img.shields.io/badge/Hard-0-red)]()
 [![Languages](https://img.shields.io/badge/Languages-1-blueviolet)]()
 
@@ -15,21 +15,37 @@
 | Metric | Count |
 |---------|------:|
 | Problems Solved | 1 |
-| Easy | 1 |
-| Medium | 0 |
+| Easy | 0 |
+| Medium | 1 |
 | Hard | 0 |
-| Languages | C# |
+| Languages | C++ |
 | Last Sync | 16 Sep 2026 |
 
 ---
 
 # 📂 Browse by Topic
 
-## Math (1)
+## Array (1)
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 4245 | Count Commas in Range | 🟢 Easy | [View](./4245-count-commas-in-range/) |
+| 0740 | Delete and Earn | 🟡 Medium | [View](./0740-delete-and-earn/) |
+
+---
+
+## Dynamic Programming (1)
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 0740 | Delete and Earn | 🟡 Medium | [View](./0740-delete-and-earn/) |
+
+---
+
+## Hash Table (1)
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 0740 | Delete and Earn | 🟡 Medium | [View](./0740-delete-and-earn/) |
 
 ---
 
@@ -37,7 +53,7 @@
 
 | Date | Problem | Difficulty | Language |
 |------|----------|------------|----------|
-| 16 Sep 2026 | Count Commas in Range | 🟢 Easy | C# |
+| 16 Sep 2026 | Delete and Earn | 🟡 Medium | C++ |
 
 ---
 

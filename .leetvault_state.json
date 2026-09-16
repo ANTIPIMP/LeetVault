@@ -1,43 +1,50 @@
 {
   "stats": {
     "total": 1,
-    "easy": 1,
-    "medium": 0,
+    "easy": 0,
+    "medium": 1,
     "hard": 0,
     "languages": [
-      "C#"
+      "C++"
     ],
     "lastSync": "16 Sep 2026"
   },
   "problems": [
     {
-      "title": "Count Commas in Range",
-      "slug": "count-commas-in-range",
-      "qid": "4245",
-      "files": [
-        {
-          "filename": "Solution.cs",
-          "language": "csharp",
-          "code": "public class Solution {\n    public int CountCommas(int n) {\n        return n-999>0? n-999:0;\n    }\n}",
-          "runtime": "0 ms",
-          "memory": "29 MB",
-          "status": "Accepted",
-          "timestamp": 1789552610,
-          "note": "",
-          "id": 2143524390
-        }
-      ],
-      "questionId": "4245",
-      "url": "https://leetcode.com/problems/count-commas-in-range/",
-      "difficulty": "Easy",
+      "title": "Delete and Earn",
+      "slug": "delete-and-earn",
+      "qid": "740",
+      "difficulty": "Medium",
       "tags": [
         {
-          "name": "Math",
-          "slug": "math"
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
         }
       ],
-      "likes": 297,
-      "dislikes": 27,
+      "files": [
+        {
+          "filename": "solution.cpp",
+          "language": "cpp",
+          "code": "class Solution {\npublic:\n    int deleteAndEarn(vector<int>& nums) {\n        int n = nums.size();\n        sort(nums.begin(), nums.end());\n        int maxi = nums[n-1];\n\n        vector<int> points(maxi+1, 0);\n\n        for(int num : nums) {\n            points[num] += num;\n        }\n\n        vector<int> dp(maxi+1, 0);\n        dp[0] = points[0];\n\n        for(int i = 1; i <= maxi; i++) {\n            int pick = points[i];\n\n            if(i > 1) {\n                pick += dp[i-2];\n            }\n\n            int nonPick = dp[i-1];\n\n            dp[i] = max(pick, nonPick);\n        }\n        return dp[maxi];\n    }\n};",
+          "runtime": "3 ms",
+          "memory": "15.7 MB",
+          "status": "Accepted",
+          "timestamp": 1789559094,
+          "id": 2143603911
+        }
+      ],
+      "questionId": "740",
+      "url": "https://leetcode.com/problems/delete-and-earn/",
+      "likes": 8085,
+      "dislikes": 407,
       "paidOnly": false
     }
   ]
