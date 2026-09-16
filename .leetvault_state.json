@@ -1,11 +1,11 @@
 {
   "stats": {
-    "total": 2,
-    "easy": 2,
+    "total": 1,
+    "easy": 1,
     "medium": 0,
     "hard": 0,
     "languages": [
-      "C++"
+      "C#"
     ],
     "lastSync": "16 Sep 2026"
   },
@@ -16,15 +16,15 @@
       "qid": "4245",
       "files": [
         {
-          "filename": "solution.cpp",
-          "language": "cpp",
-          "code": "class Solution {\npublic:\n    int countCommas(int n) {\n        return max(n-999,0);\n    }\n};",
+          "filename": "Solution.cs",
+          "language": "csharp",
+          "code": "public class Solution {\n    public int CountCommas(int n) {\n        return n-999>0? n-999:0;\n    }\n}",
           "runtime": "0 ms",
-          "memory": "8.7 MB",
+          "memory": "29 MB",
           "status": "Accepted",
-          "timestamp": 1789550122,
+          "timestamp": 1789552610,
           "note": "",
-          "id": 2143491578
+          "id": 2143524390
         }
       ],
       "questionId": "4245",
@@ -38,40 +38,6 @@
       ],
       "likes": 297,
       "dislikes": 27,
-      "paidOnly": false
-    },
-    {
-      "title": "Rectangle Overlap",
-      "slug": "rectangle-overlap",
-      "qid": "866",
-      "files": [
-        {
-          "filename": "solution.cpp",
-          "language": "cpp",
-          "code": "class Solution {\npublic:\n    bool isRectangleOverlap(vector<int>& rec1, vector<int>& rec2) {\n        return (rec1[2] > rec2[0] && rec1[3] > rec2[1] &&\n                rec1[0] < rec2[2] && rec1[1] < rec2[3]);\n    }\n};",
-          "runtime": "0 ms",
-          "memory": "9.8 MB",
-          "status": "Accepted",
-          "timestamp": 1789550422,
-          "note": "",
-          "id": 2143495675
-        }
-      ],
-      "questionId": "866",
-      "url": "https://leetcode.com/problems/rectangle-overlap/",
-      "difficulty": "Easy",
-      "tags": [
-        {
-          "name": "Math",
-          "slug": "math"
-        },
-        {
-          "name": "Geometry",
-          "slug": "geometry"
-        }
-      ],
-      "likes": 2373,
-      "dislikes": 507,
       "paidOnly": false
     }
   ]
