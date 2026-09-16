@@ -1,0 +1,43 @@
+# 1635. Number of Good Pairs
+
+| Property | Value |
+|----------|-------|
+| Difficulty | 🟢 Easy |
+| Language | C++ |
+| Status | ✅ Accepted |
+| Runtime | 0 ms |
+| Memory | 9.9 MB |
+| Submission ID | 2102329647 |
+| Solved On | 11 Aug 2026 |
+
+---
+
+## 🔗 Problem
+
+https://leetcode.com/problems/number-of-good-pairs/
+
+---
+
+## 🏷 Tags
+
+- Array
+- Hash Table
+- Math
+- Counting
+
+---
+
+## 📝 Notes
+
+No notes provided.
+
+---
+
+## 📁 Files
+
+| Language | Runtime | Memory | File |
+|----------|---------|--------|------|
+| C++ | 0 ms | 9.9 MB | [solution.cpp](./solution.cpp) |
+
+---
+Generated automatically using [LeetVault](https://github.com/vedant476/LeetVault).
