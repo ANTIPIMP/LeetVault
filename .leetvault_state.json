@@ -1,0 +1,44 @@
+{
+  "stats": {
+    "total": 1,
+    "easy": 1,
+    "medium": 0,
+    "hard": 0,
+    "languages": [
+      "C++"
+    ],
+    "lastSync": "16 Sep 2026"
+  },
+  "problems": [
+    {
+      "title": "Count Commas in Range",
+      "slug": "count-commas-in-range",
+      "qid": "4245",
+      "files": [
+        {
+          "filename": "solution.cpp",
+          "language": "cpp",
+          "code": "class Solution {\npublic:\n    int countCommas(int n) {\n        return max(n-999,0);\n    }\n};",
+          "runtime": "0 ms",
+          "memory": "8.7 MB",
+          "status": "Accepted",
+          "timestamp": 1789550122,
+          "note": "",
+          "id": 2143491578
+        }
+      ],
+      "questionId": "4245",
+      "url": "https://leetcode.com/problems/count-commas-in-range/",
+      "difficulty": "Easy",
+      "tags": [
+        {
+          "name": "Math",
+          "slug": "math"
+        }
+      ],
+      "likes": 297,
+      "dislikes": 27,
+      "paidOnly": false
+    }
+  ]
+}
