@@ -128,4 +128,4 @@ No notes provided.
 | MySQL | 673 ms | 0.0B | [solution.mysql.sql](./solution.mysql.sql) |
 
 ---
-Generated automatically using [LeetVault](https://github.com/vedant476/LeetVault).
+Generated using [LeetVault](https://github.com/vedant476/LeetVault).

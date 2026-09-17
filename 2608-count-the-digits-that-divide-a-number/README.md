@@ -103,4 +103,4 @@ No notes provided.
 | C++ | 0 ms | 7.9 MB | [solution.cpp](./solution.cpp) |
 
 ---
-Generated automatically using [LeetVault](https://github.com/vedant476/LeetVault).
+Generated using [LeetVault](https://github.com/vedant476/LeetVault).

@@ -88,4 +88,4 @@ No notes provided.
 | JavaScript | 119 ms | 57 MB | [solution.js](./solution.js) |
 
 ---
-Generated automatically using [LeetVault](https://github.com/vedant476/LeetVault).
+Generated using [LeetVault](https://github.com/vedant476/LeetVault).

@@ -88,4 +88,4 @@ No notes provided.
 | Python3 | 0 ms | 19.3 MB | [solution.py](./solution.py) |
 
 ---
-Generated automatically using [LeetVault](https://github.com/vedant476/LeetVault).
+Generated using [LeetVault](https://github.com/vedant476/LeetVault).

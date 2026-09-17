@@ -89,4 +89,4 @@ No notes provided.
 | Bash | 103 ms | 3.8 MB | [solution.sh](./solution.sh) |
 
 ---
-Generated automatically using [LeetVault](https://github.com/vedant476/LeetVault).
+Generated using [LeetVault](https://github.com/vedant476/LeetVault).

@@ -101,4 +101,4 @@ No notes provided.
 | Python | 347 ms | 12.5 MB | [solution.py](./solution.py) |
 
 ---
-Generated automatically using [LeetVault](https://github.com/vedant476/LeetVault).
+Generated using [LeetVault](https://github.com/vedant476/LeetVault).

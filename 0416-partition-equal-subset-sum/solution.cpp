@@ -6,10 +6,10 @@ public:
      for( int i : nums) {
         sum+=i;
         mx =max(mx,i);
-     }  
-    //  if( sum %2 != 0) return false;
-     if( sum-mx == mx)   return true;
-    //  if( sum-mx<mx ) return false;
+     } 
+     for ( int i : nums){
+        if( i == sum - i) return true;
+     }
      return false;
     }
 };

@@ -99,4 +99,4 @@ No notes provided.
 | Java | 1 ms | 46.6 MB | [Solution.java](./Solution.java) |
 
 ---
-Generated automatically using [LeetVault](https://github.com/vedant476/LeetVault).
+Generated using [LeetVault](https://github.com/vedant476/LeetVault).
